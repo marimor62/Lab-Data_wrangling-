@@ -1,5 +1,4 @@
 # Lab | Data cleaning and wrangling
-!([ironhack logo] https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fironhack%3Flanguage%3Djavascript&psig=AOvVaw1GbVnoRzcz12EbAVy8Mwnz&ust=1618503941650000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDL8paT_u8CFQAAAAAdAAAAABAl)
 
 For this lab, we will be using the Marketing Customer Value Analysis database from before.
 
