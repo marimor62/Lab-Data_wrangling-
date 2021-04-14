@@ -1,4 +1,6 @@
 # Lab | Data cleaning and wrangling
+![image](https://user-images.githubusercontent.com/81168768/114745409-e9c5db00-9d4e-11eb-991f-ef5a556a995a.png)
+
 
 For this lab, we will be using the Marketing Customer Value Analysis database from before.
 
