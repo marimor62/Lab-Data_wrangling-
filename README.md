@@ -1,6 +1,6 @@
 # Lab | Data cleaning and wrangling
 
-For this lab, we will be using the Marketing Customer Value Analysis database from before.
+For this lab, we will be using the Marketing Customer Value Analysis database from before (marketing_customer_analysis.csv)
 
 ## Instructions
 This lab will focus on data cleaning and wrangling, this is a crucial step in the EDA process.
