@@ -1,6 +1,6 @@
 # Lab | Data cleaning and wrangling
 
-For this lab, we will be using the Marketing Customer Value Analysis database from before.
+For this lab, we will be using the Marketing Customer Value Analysis database from before (marketing_customer_analysis.csv). An auto insurance company has collected some data about its customers including their demographic data, education, employment, policy details, vehicle information, insurance policy and claim amounts. 
 
 ## Instructions
 This lab will focus on data cleaning and wrangling, this is a crucial step in the EDA process.
